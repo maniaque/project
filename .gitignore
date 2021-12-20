@@ -1,2 +1,4 @@
 git/objects/*
 git/hooks/*
+git/modules/include/objects/*
+git/modules/include/hooks/*
